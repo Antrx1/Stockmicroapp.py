@@ -4,13 +4,12 @@ A secure, Dockerized Python microservice for stock and crypto analytics. This ap
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📊 Live stock/crypto cards (SPY, QQQ, BTC, etc)
-- 📈 Chart view with market caps and financials
-- 🔍 Trending tickers via social scraping (ApeWisdom)
-- 🐳 Docker containerized for scalability
-- 🔐 Non-root + SELinux-compatible
+- Live stock/crypto cards (SPY, QQQ, BTC, etc)
+- Chart view with market caps and financials
+- Trending tickers via social scraping (ApeWisdom)
+- Docker containerized for scalability
 
 ---
 
@@ -22,11 +21,3 @@ A secure, Dockerized Python microservice for stock and crypto analytics. This ap
   - `apip.txt` for [Polygon.io](https://polygon.io)
 
 ---
-
-## ⚙️ Setup
-
-### 1. Clone
-
-```bash
-git clone https://github.com/Antrx1/stocks.py-microservice-docker.git
-cd stocks.py-microservice-docker
