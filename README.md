@@ -5,11 +5,10 @@ A secure, Dockerized Python microservice for stock and crypto analytics. This ap
 ---
 
 ## Features
-
-- Live stock/crypto cards (SPY, QQQ, BTC, etc)
-- Chart view with market caps and financials
-- Trending tickers via social scraping (ApeWisdom)
-- Docker containerized for scalability
+- Live stock/crypto quote cards with net change price monitor (API FinnHub.io)
+- Trending social tickers (Api ApeWisdom.com)
+- Financial analysis (API Polygon.io)
+- Containerized via Docker for easy scaling with Docker-compose.yml file 
 
 ---
 
