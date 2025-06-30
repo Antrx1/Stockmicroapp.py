@@ -1,4 +1,4 @@
-# Stockmicroapp.py
+# Stockmicroapp
 
 A secure, Dockerized Python microservice for stock and crypto analytics. This app offers real-time prices, social trending tickers, and financial analysis using modern tools like Streamlit, Finnhub, and Polygon.
 
