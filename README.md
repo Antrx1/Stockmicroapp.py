@@ -8,11 +8,20 @@ A secure, Dockerized Python microservice for stock and crypto analytics. This ap
 - Live stock/crypto quote cards with net change price monitor (API FinnHub.io)
 - Trending social tickers (API ApeWisdom.com)
 - Financial analysis (API Polygon.io)
-- Containerized via Docker for easy scaling with Docker-compose.yml file 
+- Containerized via Docker for easy scaling with Docker-compose.yml file
+
+## Tech Stack
+
+- Python 3.11
+- Streamlit
+- Docker
+- Finnhub API
+- Polygon.io API
+
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Docker (any Linux host)
 - API keys:
