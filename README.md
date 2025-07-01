@@ -30,9 +30,9 @@ echo "your_finnhub_api_key" > api.txt
 echo "your_polygon_api_key" > apip.txt
 
 - Docker (any Linux host)
-docker build -t stockapp .
-docker run -d -p 8501:8501 --name stockmicroapp stockapp
-docker ps -a 
+- docker build -t stockapp .
+- docker run -d -p 8501:8501 --name stockmicroapp stockapp
+- docker ps -a 
 
 - http://localhost:8501
 
