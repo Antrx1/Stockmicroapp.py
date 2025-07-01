@@ -1,0 +1,7 @@
+streamlit
+finnhub-python
+polygon-api-client
+pandas
+plotly
+requests
+beautifulsoup4
