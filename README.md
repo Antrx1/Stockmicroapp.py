@@ -5,13 +5,13 @@ This app offers real-time prices, social trending tickers, and financial analysi
 
 ## Features
 
-- Live stock/crypto quote cards with net change price monitor (API: [FinnHub.io](https://finnhub.io/))
+- Live stock/crypto quote cards for price monitor (API: [FinnHub.io](https://finnhub.io/))
 - Trending social tickers (API: [ApeWisdom.com](https://apewisdom.com/))
 - Financial analysis (API: [Polygon.io](https://polygon.io/))
-- Containerized via Docker for easy deployment.
+- Containerized via Docker for easy deployment in Linux OS.
 
 ## Tech Stack
-
+- Linux OS RHEL/CentOS/Ubuntu 
 - Python 3.11
 - Streamlit
 - Docker
